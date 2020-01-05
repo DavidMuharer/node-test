@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" time="1.058">
+  <testsuite name="should read data from file and return the data " errors="0" failures="0" skipped="0" timestamp="2020-01-05T13:17:34" time="1.012" tests="3">
+    <testcase classname="should read data from file and return the data  should read data from file and return the data" name="should read data from file and return the data  should read data from file and return the data" time="0.003">
+    </testcase>
+    <testcase classname="should read data from file and return the data  should read data from file and return the data" name="should read data from file and return the data  should read data from file and return the data" time="0.001">
+    </testcase>
+    <testcase classname="should read data from file and return the data  should read data from file and return the data" name="should read data from file and return the data  should read data from file and return the data" time="0.002">
+    </testcase>
+  </testsuite>
+</testsuites>
